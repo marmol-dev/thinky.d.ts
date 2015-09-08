@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"module": "commonjs"
+	},
+	"files": [
+		"app/models/person.model.ts",
+		"app/controllers/persons.controller.ts",
+		"typings/tsd.d.ts",
+		"thinky.d.ts"
+	]
+}

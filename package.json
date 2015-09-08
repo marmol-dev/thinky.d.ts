@@ -1,0 +1,23 @@
+{
+  "name": "thinky.d.ts",
+  "version": "0.0.1",
+  "description": "Thinky.io ORM definitions for Typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "tsd",
+    "definitions",
+    "thinky",
+    "rethinkdb",
+    "orm",
+    "db"
+  ],
+  "dependencies": {
+    "thinky" : "*"  
+  },
+  "author": "tomymolina",
+  "license": "ISC"
+}
